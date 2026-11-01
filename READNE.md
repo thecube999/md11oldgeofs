@@ -1,0 +1,1 @@
+The most accurate Geofs MD 11 model is the one in md11.finaloriginal.glb; the others are older and inaccurate. I had to convert the models to glb 2.0. In Blender, I used a script where the pieces were arranged according to the definition or JSON.
